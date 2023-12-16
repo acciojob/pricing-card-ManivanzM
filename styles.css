@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+div{
+	background-color : #f1f1f1;
+	width : 30%;
+	padding : 25px;
+	box-shadow : 5px 10px 10px #e8e8e8;
+}
+h1{
+ text-align : center;
+	width : 100%
+}
+p{
+	text-align : center;
+	width : 100%;
+	font-weight : 700;
+}
+button{
+
+	background-color : #fe625a;
+	color : #fbfbfb;
+	padding : 10px;
+	border-radius : 7px;
+	
+}
+img{
+	width : 100%;
+}
